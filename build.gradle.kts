@@ -4,8 +4,6 @@ plugins {
     id("io.spring.dependency-management") version "1.1.0"
 }
 
-extra["jetty.version"] = "12.0.0.alpha2"
-
 group = "org.example"
 version = "1.0-SNAPSHOT"
 
